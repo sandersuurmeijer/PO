@@ -1,24 +1,32 @@
 * {
     padding: 0;
     margin: 0;
+    height: 100%;
+    width:100%;
+
 }
 
   #menu {
-      height: 60px;
+      height: 7%;
     width: 100%;
  background-color:black;
   }
-
 li {
-margin-left: 10px;
+margin-left: 20px;
 display: inline;
 font-size: 40px;
-background-color: aquamarine;
-padding: 12px;
-border-bottom: solid aquamarine;
+background-color: rgb(109, 243, 0);
+padding: 11px;
+
+border-bottom: solid rgb(109, 243, 0);
  position: relative;
-top: -61px;
+top: -69px;
 left: 150px;
+text-decoration: none;
+}
+
+#contact {
+margin-left: 400px;
 }
 
 li:hover {
@@ -27,7 +35,13 @@ li:hover {
 
 .logo {
     border-left: 10px solid white;
-    margin-left: -1px;
-     height:61px;
-    width:120px;
+    margin-left: 0px;
+     height:70px;
+    width:136px;
+}
+
+#linksboven {
+  height: 150px;
+  width: 150px;
+  background-color:blue;  
 }

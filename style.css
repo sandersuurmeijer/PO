@@ -16,8 +16,7 @@ margin-left: 20px;
 display: inline;
 font-size: 40px;
 background-color: rgb(109, 243, 0);
-padding: 11px;
-
+padding: 17px;
 border-bottom: solid rgb(109, 243, 0);
  position: relative;
 top: -69px;
@@ -26,7 +25,7 @@ text-decoration: none;
 }
 
 #contact {
-margin-left: 400px;
+margin-left: 440px;
 }
 
 li:hover {
@@ -41,7 +40,14 @@ li:hover {
 }
 
 #linksboven {
-  height: 150px;
-  width: 150px;
+  height: 50%;
+  width: 50%;
   background-color:blue;  
+}
+#links {
+    height: 80%;
+    width : 12%;
+    color : #006666;
+    font-size: 10px;
+    margin-top: 5%;
 }
